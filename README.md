@@ -7,3 +7,5 @@ sleep. Based on this, the user will send periodic messages to the user reminding
 the bot will then send a text to the user's phone number using the Twilio API to remind them to drink water. 
 
 This project won "Best Use of the Twilio API" at Bitcamp, a hackathon hosted by the University of Maryland, College Park. 
+
+The images attached show the bot in action. 
